@@ -1,6 +1,8 @@
 # Dream-Big-Inspire-Millions
-## Responsive Webpage using Javascript, Css , Html and animation  . It inspires one to Dream big and to never give up for it. 
-
+## 1.Responsive Webpage using Javascript, Css , Html and animation  . It inspires one to Dream big and to never give up for it. 
+## 2.Near to the footer, You will see a text area where user can write about his/her dream .After writing it, click on the speaker button 
+## 3.The voice speaks the text for you (Using Web speech synthesis api)
+## 4.You can select different voices from the select list under the textarea 
 ## Screenshots :
 ## 1.
 ## ![Screenshot (173)jpg](https://user-images.githubusercontent.com/32910597/82092643-4ff94680-9717-11ea-9359-a2c2e958cd80.jpg)
